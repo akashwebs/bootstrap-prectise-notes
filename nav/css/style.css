@@ -1,0 +1,13 @@
+*{margin: 0; padding:0;}
+.nav-link{
+   
+}
+.nav-link{
+    
+    color: #fff;
+}
+.nav-link:hover,
+.nav-link.active{
+    background: #dcdc;
+    color: #fff;
+}

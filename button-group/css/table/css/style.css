@@ -1,0 +1,13 @@
+body{background: gray; font-size: 2rem;}
+.container .row .col-12 h3{
+    text-decoration: underline;
+}
+.col-12 p, .col-md-6 p{
+    margin: 0 auto;
+    width: 46%;
+    font-size: 12pt;
+    font-weight: 600;
+}
+.brder{
+    border-right: 2px solid #000;
+}
